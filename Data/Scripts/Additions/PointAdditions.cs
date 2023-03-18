@@ -360,8 +360,8 @@ namespace ShipPoints
 				ModularLRM5AngledReversed@40;
 				Starcore_Arrow_Block@300;
 				SC_Flare@100;
-				Odin_Laser_Fixed@275;
-				Odin_Autocannon_Fixed@275;
+				Odin_Laser_Fixed@350;
+				Odin_Autocannon_Fixed@350;
 				Odin_PDC@100;
 				Odin_Defense_1x2@100;
 				Odin_Gatling_Laser@275;
@@ -414,8 +414,8 @@ namespace ShipPoints
 				NHI_Mk2_Cannon_Surface_Turret@335;
 				NHI_Mk1_Cannon_Turret@175;
 				NHI_Mk1_Cannon_Surface_Turret@175;
-				NHI_Fixed_Autocannon@350;
-				NHI_Fixed_Gatling_Laser@350;
+				NHI_Fixed_Autocannon@275;
+				NHI_Fixed_Gatling_Laser@275;
 				NHI_Kinetic_Cannon_Turret@250;
 				DETPAK@1;
 				DETPAK_3x1@1;
