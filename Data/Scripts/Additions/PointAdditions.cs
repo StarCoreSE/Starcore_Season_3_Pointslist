@@ -359,7 +359,7 @@ namespace ShipPoints
 				ModularMiddleLRM5@40;
 				ModularLRM5AngledReversed@40;
 				Starcore_Arrow_Block@300;
-				SC_Flare@100;
+				SC_Flare@50;
 				Odin_Laser_Fixed@350;
 				Odin_Autocannon_Fixed@350;
 				Odin_PDC@100;
