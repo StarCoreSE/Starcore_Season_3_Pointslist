@@ -442,7 +442,7 @@ namespace ShipPoints
 				Torp_Block@750;
 				Heavy_Repeater@85;
 				Fixed_Rockets@250;
-				Type18_Artillery@270;
+				Type18_Artillery@200;
 				Type21_Artillery@600;
 				Assault_Coil_Turret@160;
 				Light_Coil_Turret@105;
