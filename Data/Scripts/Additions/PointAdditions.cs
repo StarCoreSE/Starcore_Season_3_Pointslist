@@ -448,13 +448,13 @@ namespace ShipPoints
 				Light_Coil_Turret@105;
 				RailgunTurret_Block@99999;
                 Null_Point_Jump_Disruptor_Large@99999;
-				LargeGatlingTurret@99999;
+				LargeGatlingTurret@100;
 				LargeMissileTurret@155;
-				LargeBlockMediumCalibreTurret@99999;
-				LargeCalibreTurret@99999;
+				LargeBlockMediumCalibreTurret@250;
+				LargeCalibreTurret@250;
 				LargeRailgun@165;
-				LargeBlockLargeCalibreGun@99999;
-				LargeMissileLauncher@99999;
+				LargeBlockLargeCalibreGun@250;
+				LargeMissileLauncher@250;
 				Starcore_RWR_Projectiles@5;
 				NID_Pyroacid@300;
 				NID_HeavyPyroacid@500;
