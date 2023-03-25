@@ -391,7 +391,7 @@ namespace ShipPoints
 				AMP_ArcMeleeReskin@65;
 				AMP_FlameThrower@55;
 				AMP_CryoShotgun@60;
-				Hexcannon@1000;
+				Hexcannon@500;
 				HakkeroBeam@400;
 				HakkeroProjectile@400;
 				HAS_Esper@625;
