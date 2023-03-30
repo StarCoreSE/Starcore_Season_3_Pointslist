@@ -135,7 +135,7 @@ namespace ShipPoints
 				K_SA_HeavyMetal_Gauss_ERII@1050;
 				K_SA_HeavyMetal_Gauss_ERIIRF@99999;
 				K_SA_Launcher_FixedMountv2@500;
-				ARYXTempestCannon@450;
+				ARYXTempestCannon@350;
 				ARYXLightCoilgun@700;
 				SpaceBallLarge@42069;
 				MA_Fixed_T2@50;
