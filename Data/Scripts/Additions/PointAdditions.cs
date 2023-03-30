@@ -293,7 +293,7 @@ namespace ShipPoints
 				LargeBlockSmallAtmosphericThrust@3;
 				LargeBlockLargeAtmosphericThrustSciFi@3;
 				LargeBlockSmallAtmosphericThrustSciFi@3;
-				ARYXRailgunTurret@450;
+				ARYXRailgunTurret@350;
 				MCRNRailgunLB@1250;
 				MAR_1x1x1_AR_DualHead_Rotor@5;
 				MAR_1x1x1_AR_DualHead_Stator@5;
