@@ -336,7 +336,7 @@ namespace ShipPoints
 				MCRN_Heavy_Torpedo@350;
 				OPA_Heavy_Torpedo@200;
 				OPA_Light_Missile@150;
-				UNN_Heavy_Torpedo@150;
+				UNN_Heavy_Torpedo@125;
 				UNN_Light_Torpedo@200;
 				Starcore_Fixed_Coil_Cannon@400;
 				Starcore_AMS_I_Block@175;
@@ -407,15 +407,15 @@ namespace ShipPoints
 				NHI_Autocannon_Turret@250;
 				NHI_Gatling_Laser_Turret@250;
 				NHI_Light_Railgun_Turret@200;
-				NHI_Heavy_Gun_Turret@450;
+				NHI_Heavy_Gun_Turret@300;
 				NHI_Mk3_Cannon_Turret@450;
 				NHI_Mk3_Cannon_Surface_Turret@450;
 				NHI_Mk2_Cannon_Turret@335;
 				NHI_Mk2_Cannon_Surface_Turret@335;
 				NHI_Mk1_Cannon_Turret@175;
 				NHI_Mk1_Cannon_Surface_Turret@175;
-				NHI_Fixed_Autocannon@275;
-				NHI_Fixed_Gatling_Laser@275;
+				NHI_Fixed_Autocannon@225;
+				NHI_Fixed_Gatling_Laser@225;
 				NHI_Kinetic_Cannon_Turret@250;
 				DETPAK@1;
 				DETPAK_3x1@1;
@@ -465,6 +465,7 @@ namespace ShipPoints
 				LightParticleWhip@200;
 				ParticleWhip@400;
 				NovaCannon@800;
+				longsword@400;
             "));
         }
     }
