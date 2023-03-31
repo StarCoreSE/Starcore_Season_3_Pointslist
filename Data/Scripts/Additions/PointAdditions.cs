@@ -420,7 +420,7 @@ namespace ShipPoints
 				DETPAK@1;
 				DETPAK_3x1@1;
 				DETPAK_1x1@1;
-				CLBX20@500;
+				CLBX5@500;
 				SELtdLargeNanobotBuildAndRepairSystem@50;
 				ERPPC@595;
 				SC_COV_Plasma_Turret@300;
