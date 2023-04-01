@@ -94,8 +94,8 @@ namespace ShipPoints
 				MA_Afterburner_Large_small@50;
 				MA_Afterburner_Large_5x@250;
 				Afterburner_LG_Ion_Large@150;
-				MA_Tiger@150;
-				MA_Crouching_Tiger@150;
+				MA_Tiger@100;
+				MA_Crouching_Tiger@100;
 				AQD_LG_HydroThrusterL_ArmoredSlope@30;
 				AQD_LG_HydroThrusterL_Armored@30;
 				AQD_LG_HydroThrusterS_ArmoredSlope@5;
