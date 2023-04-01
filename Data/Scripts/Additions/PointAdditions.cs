@@ -443,10 +443,12 @@ namespace ShipPoints
 				Heavy_Repeater@85;
 				Fixed_Rockets@250;
 				Type18_Artillery@200;
-				Type21_Artillery@600;
+				Type21_Artillery@400;
 				Assault_Coil_Turret@160;
 				Light_Coil_Turret@105;
 				RailgunTurret_Block@99999;
+				K_HS_9x9_K3_King@900;
+				K_HS_9x9_HSRB_Dreadnight@900;
                 Null_Point_Jump_Disruptor_Large@99999;
 				LargeGatlingTurret_SC@100;
 				LargeMissileTurret_SC@155;
