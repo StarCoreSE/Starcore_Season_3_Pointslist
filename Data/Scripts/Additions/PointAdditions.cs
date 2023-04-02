@@ -416,7 +416,7 @@ namespace ShipPoints
 				NHI_Mk1_Cannon_Surface_Turret@175;
 				NHI_Fixed_Autocannon@225;
 				NHI_Fixed_Gatling_Laser@225;
-				NHI_Kinetic_Cannon_Turret@250;
+				NHI_Kinetic_Cannon_Turret@225;
 				DETPAK@1;
 				DETPAK_3x1@1;
 				DETPAK_1x1@1;
