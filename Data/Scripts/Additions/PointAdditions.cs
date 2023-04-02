@@ -18,7 +18,7 @@ namespace ShipPoints
                 LargeBlockSmallGenerator@18;
                 LargeBlockLargeGenerator@300;
                 LargeWarhead@101;
-                LargeDecoy@5;
+                LargeDecoy@4;
                 LargeStator@5;
                 LargeAdvancedStator@5;
                 LargeHinge@5;
