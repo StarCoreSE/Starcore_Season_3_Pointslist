@@ -468,6 +468,8 @@ namespace ShipPoints
 				ParticleWhip@400;
 				NovaCannon@800;
 				longsword@400;
+				65_Launcher_FixedMount@350;
+				Hellfire_Laser_Block@666;
             "));
         }
     }
