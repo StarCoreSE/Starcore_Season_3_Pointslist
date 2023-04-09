@@ -330,6 +330,7 @@ namespace ShipPoints
 				TRR_LG_11x11x1_TR_Rotor@80;
 				TRR_LG_11x11x1_TR_Stator@80;
 				K_SA_HeavyMetal_Spinal_Rotary@1000;
+				K_SA_HeavyMetal_Spinal_Rotary_Reskin@1000;
 				MetalStorm@125;
 				Odin_Rail_2@300;
 				Odin_Rail_1@200;
