@@ -31,6 +31,8 @@ namespace ShipPoints
                 MA_Buster_Camera@10;
                 LargeBlockRemoteControl@100;
                 LargeProgrammableBlock@100;
+				LargeProgrammableBlockReskin@150;
+				6SidePB@150
 				RailgunxTurretS@100;
 				C100mmTurret@100;
 				MA_T2PDX@150;
@@ -471,6 +473,19 @@ namespace ShipPoints
 				longsword@400;
 				65_Launcher_FixedMount@350;
 				Hellfire_Laser_Block@666;
+				EventController@50;
+				EventControllerSmall@50;				
+				LargeFlightMovement@25;
+				LargeDefensiveCombat@25;
+				LargeOffensiveCombat@25;
+				LargeBasicMission@15;
+				PathRecorderBlock@25;
+				SmallFlightMovement@25;
+				SmallDefensiveCombat@25;
+				SmallOffensiveCombat@25;
+				SmallBasicMission@25;
+				SmallPathRecorderBlock@15;
+
             "));
         }
     }
