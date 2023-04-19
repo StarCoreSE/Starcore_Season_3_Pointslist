@@ -442,7 +442,7 @@ namespace ShipPoints
 				TaiidanSingleHangar@100;  
 				MA_Guardian@700;
 				Laser_Block@150;
-				Torp_Block@750;
+				Torp_Block@725;
 				Heavy_Repeater@85;
 				Fixed_Rockets@250;
 				Type18_Artillery@200;
@@ -473,18 +473,18 @@ namespace ShipPoints
 				longsword@400;
 				65_Launcher_FixedMount@350;
 				Hellfire_Laser_Block@666;
-				EventController@50;
-				EventControllerSmall@50;				
+				EventControllerLarge@25;
+				EventControllerSmall@25;				
 				LargeFlightMovement@25;
 				LargeDefensiveCombat@25;
 				LargeOffensiveCombat@25;
-				LargeBasicMission@15;
+				LargeBasicMission@25;
 				PathRecorderBlock@25;
 				SmallFlightMovement@25;
 				SmallDefensiveCombat@25;
 				SmallOffensiveCombat@25;
 				SmallBasicMission@25;
-				SmallPathRecorderBlock@15;
+				SmallPathRecorderBlock@25;
 
             "));
         }
