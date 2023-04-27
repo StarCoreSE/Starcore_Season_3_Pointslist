@@ -32,7 +32,7 @@ namespace ShipPoints
                 LargeBlockRemoteControl@100;
                 LargeProgrammableBlock@100;
 				LargeProgrammableBlockReskin@150;
-				6SidePB@150
+				6SidePB@150;
 				RailgunxTurretS@100;
 				C100mmTurret@100;
 				MA_T2PDX@150;
