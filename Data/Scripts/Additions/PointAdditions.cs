@@ -31,8 +31,8 @@ namespace ShipPoints
                 MA_Buster_Camera@10;
                 LargeBlockRemoteControl@100;
                 LargeProgrammableBlock@100;
-				LargeProgrammableBlockReskin@150;
-				6SidePB@150;
+				LargeProgrammableBlockReskin@100;
+				6SidePB@100;
 				RailgunxTurretS@100;
 				C100mmTurret@100;
 				MA_T2PDX@150;
