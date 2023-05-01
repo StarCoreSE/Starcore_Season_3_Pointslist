@@ -436,9 +436,10 @@ namespace ShipPoints
 				HakkeroBeamMini@400;
 				banshee@500;
 				SLAM@800;
-				TaiidanRailCompact@500;
-				TaiidanRail@700;
-				TaiidanHangar@800; 
+				TaiidanRailFighter@700;
+				TaiidanRailBomber@700;
+				TaiidanHangarFighter@800; 
+				TaiidanHangarBomber@800; 
 				TaiidanSingleHangar@100;  
 				MA_Guardian@700;
 				Laser_Block@150;
