@@ -486,7 +486,7 @@ namespace ShipPoints
 				SmallOffensiveCombat@25;
 				SmallBasicMission@25;
 				SmallPathRecorderBlock@25;
-
+				HAS_Cyclops@350;
             "));
         }
     }
