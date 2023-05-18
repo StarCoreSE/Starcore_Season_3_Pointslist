@@ -445,6 +445,7 @@ namespace ShipPoints
 				Laser_Block@150;
 				Torp_Block@725;
 				Heavy_Repeater@85;
+				PriestReskin_Block@85;
 				Fixed_Rockets@250;
 				Type18_Artillery@200;
 				Type21_Artillery@400;
