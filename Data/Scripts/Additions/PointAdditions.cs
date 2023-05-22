@@ -440,7 +440,7 @@ namespace ShipPoints
 				TaiidanRailBomber@700;
 				TaiidanHangarFighter@800; 
 				TaiidanHangarBomber@800;
-				TaiidanHangerBomberMedium@800;				
+				TaiidanHangarBomberMedium@800;				
 				TaiidanSingleHangar@100;  
 				MA_Guardian@700;
 				Laser_Block@150;
