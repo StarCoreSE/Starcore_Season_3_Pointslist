@@ -119,8 +119,8 @@ namespace ShipPoints
 				ARYXMagnetarCannon@450;
 				ARYXPlasmaPulser@275;
 				ARYXLargeRadar@10;
-				ARYXBurstTurret@200;
-				ARYXBurstTurretSlanted@200;
+				ARYXBurstTurret@250;
+				ARYXBurstTurretSlanted@250;
 				MA_Designator@50;
                 BattleshipCannon@100;
                 BattleshipCannonMK2@170;
@@ -390,8 +390,8 @@ namespace ShipPoints
 				StealthHeatSink@50;
 				StealthDrive@500;
 				JN_175Fixed@1350;
-				AMP_ArcMelee@65;
-				AMP_ArcMeleeReskin@65;
+				AMP_ArcMelee@100;
+				AMP_ArcMeleeReskin@100;
 				AMP_FlameThrower@55;
 				AMP_CryoShotgun@60;
 				Hexcannon@500;
@@ -489,6 +489,7 @@ namespace ShipPoints
 				SmallBasicMission@5;
 				SmallPathRecorderBlock@5;
 				HAS_Cyclops@350;
+				HAS_Crossfield@250;
             "));
         }
     }
