@@ -264,7 +264,7 @@ namespace ShipPoints
 				Wheel5x5@35000;
 				Wheel3x3@35000;
 				Wheel1x1@35000;
-				K_SA_Gauss_AMSIIC@250;
+				K_SA_Gauss_AMSIIC@350;
 				SA_HMI_Erebos@250;
 				LargeBlockSmallThrustSciFi@2;
 				SmallThrustSciFi@3;
