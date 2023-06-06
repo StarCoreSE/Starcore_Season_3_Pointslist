@@ -491,7 +491,7 @@ namespace ShipPoints
 				HAS_Cyclops@350;
 				HAS_Crossfield@250;
 				AMP_HealGenerator@400;
-				AMP_CapacitorLarge@400;
+				CapacitorLarge@400;
             "));
         }
     }
