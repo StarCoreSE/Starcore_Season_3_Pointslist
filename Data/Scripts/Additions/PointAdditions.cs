@@ -253,7 +253,7 @@ namespace ShipPoints
 				K_SA_HeavyMetal_Gauss_A@300;
 				K_SA_HeavyMetal_Gauss_PGBC@900;
 				Starcore_PPC_Block@250;
-				Starcore_AMS_II_Block@250;
+				Starcore_AMS_II_Block@175;
 				MA_Derecho@170;
 				MA_Buster_Passage@3;
 				MA_Buster_Passage_Crossing@3;
