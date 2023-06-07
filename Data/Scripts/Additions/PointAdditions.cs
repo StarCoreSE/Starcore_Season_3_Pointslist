@@ -10,12 +10,12 @@ namespace ShipPoints
         public override void Init(MyObjectBuilder_SessionComponent sessionComponent)
         {
             MyAPIGateway.Utilities.SendModMessage(2546247, MyAPIGateway.Utilities.SerializeToBinary(@"
-				LargeBlockBatteryBlock@15;
+				LargeBlockBatteryBlock@14;
                 EmitterL@50;
                 EmitterLA@50;
                 LargeShieldModulator@50;
                 LargeEnhancer@50;
-                LargeBlockSmallGenerator@18;
+                LargeBlockSmallGenerator@17;
                 LargeBlockLargeGenerator@300;
                 LargeWarhead@101;
                 LargeDecoy@4;
@@ -279,8 +279,8 @@ namespace ShipPoints
 				C300mmTurret@275;
 				C200mmTurret@160;
 				C400mmTurret@300;
-				LargeBlockSmallGeneratorWarfare2@18;
-				LargeBlockBatteryBlockWarfare2@15;
+				LargeBlockSmallGeneratorWarfare2@17;
+				LargeBlockBatteryBlockWarfare2@14;
 				LargeBlockLargeGeneratorWarfare2@300;
 				LargeBlockLargeModularThruster@5;
 				LargeBlockSmallModularThruster@2;
