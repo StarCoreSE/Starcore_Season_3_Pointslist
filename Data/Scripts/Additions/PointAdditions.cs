@@ -252,7 +252,7 @@ namespace ShipPoints
 				K_SA_HeavyMetal_Gauss_ERFM@400;
 				K_SA_HeavyMetal_Gauss_A@300;
 				K_SA_HeavyMetal_Gauss_PGBC@900;
-				Starcore_PPC_Block@250;
+				Starcore_PPC_Block@350;
 				Starcore_AMS_II_Block@175;
 				MA_Derecho@170;
 				MA_Buster_Passage@3;
@@ -425,7 +425,7 @@ namespace ShipPoints
 				DETPAK_1x1@1;
 				CLB2X@500;
 				SELtdLargeNanobotBuildAndRepairSystem@50;
-				ERPPC@400;
+				ERPPC@350;
 				SC_COV_Plasma_Turret@300;
 				banshee@300;
 				TaiidanHangarHuge@1000;
