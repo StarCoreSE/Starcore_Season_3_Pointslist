@@ -456,7 +456,7 @@ namespace ShipPoints
 				K_HS_9x9_K3_King@900;
 				K_HS_9x9_HSRB_Dreadnight@900;
                 Null_Point_Jump_Disruptor_Large@99999;
-				LargeGatlingTurret_SC@100;
+				LargeGatlingTurret_SC@175;
 				LargeMissileTurret_SC@155;
 				LargeBlockMediumCalibreTurret_SC@250;
 				LargeCalibreTurret_SC@250;
