@@ -492,6 +492,11 @@ namespace ShipPoints
 				HAS_Crossfield@250;
 				AMP_HealGenerator@400;
 				CapacitorLarge@400;
+				K_HS_Damnation@200; //this is the turbolaser salvo boi
+				KreegMagnetarCannon@450; //take a wild guess at what this is
+				Thagomizer@800; //Now, this end is called the thagomizer... after the late Thag Simmons
+				Thagomizer_Angled@800; //almost ready
+				
             "));
         }
     }
