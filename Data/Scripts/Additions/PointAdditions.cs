@@ -351,10 +351,10 @@ namespace ShipPoints
 				ModularSRM8@250;
 				Starcore_MRM_Block@300;
 				Starcore_MRM45_Block@300;
-				ModularMRM10@90;
-				ModularMiddleMRM10@90;
-				ModularMRM10Angled@90;
-				ModularMRM10AngledReversed@90;
+				ModularMRM10@60;
+				ModularMiddleMRM10@60;
+				ModularMRM10Angled@60;
+				ModularMRM10AngledReversed@60;
 				Starcore_LRM_Block@225;
 				Starcore_LRM45_Block@225;
 				ModularLRM5@40;
