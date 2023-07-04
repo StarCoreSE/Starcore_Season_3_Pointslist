@@ -254,7 +254,7 @@ namespace ShipPoints
 				K_SA_HeavyMetal_Gauss_PGBC@900;
 				Starcore_PPC_Block@350;
 				Starcore_AMS_II_Block@175;
-				MA_Derecho@170;
+				MA_Derecho@225;
 				MA_Buster_Passage@3;
 				MA_Buster_Passage_Crossing@3;
 				OffroadWheel1x1@35000;
@@ -269,9 +269,9 @@ namespace ShipPoints
 				LargeBlockSmallThrustSciFi@2;
 				SmallThrustSciFi@3;
 				HAS_Thanatos@350;
-                HAS_Alecto@400;
-                HAS_Assault@250;
-                HAS_Mammon@450;
+               			HAS_Alecto@400;
+           			HAS_Assault@250;
+     			        HAS_Mammon@450;
 				LargeBlockRadioAntenna@5;
 				LargeBlockRadioAntennaDish@5;
 				SC1x1Antenna@5;
