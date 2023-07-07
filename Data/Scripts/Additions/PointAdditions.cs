@@ -442,19 +442,18 @@ namespace ShipPoints
 				TaiidanHangarBomber@800;
 				TaiidanHangarBomberMedium@800;				
 				TaiidanSingleHangar@100;  
-				MA_Guardian@700; //T4
-				Laser_Block@150; //Apes
-				Torp_Block@725; //Trident
-				Heavy_Repeater@85; //F3
-				PriestReskin_Block@85; //F2
-				Fixed_Rockets@180; // SRM-6 Peacemaker
+				MA_Guardian@700; 
+				Laser_Block@150; 
+				Torp_Block@725; 
+				Heavy_Repeater@85; 
+				PriestReskin_Block@85; 
+				Fixed_Rockets@180; 
 				Type18_Artillery@200;
 				Type21_Artillery@400;
-				Assault_Coil_Turret@160; //salvo (old)
-				Light_Coil_Turret@105; //reaver
-				RailgunTurret_Block@450; //Kodiak
-
-                Null_Point_Jump_Disruptor_Large@99999; //Junk
+				Assault_Coil_Turret@160; 
+				Light_Coil_Turret@105; 
+				RailgunTurret_Block@450; 
+                Null_Point_Jump_Disruptor_Large@99999;
 				LargeGatlingTurret_SC@175;
 				LargeMissileTurret_SC@155;
 				LargeBlockMediumCalibreTurret_SC@250;
@@ -491,14 +490,14 @@ namespace ShipPoints
 				HAS_Crossfield@250;
 				AMP_HealGenerator@400;
 				CapacitorLarge@400;
-				K_HS_Damnation@200; //this is the turbolaser salvo boi
-				KreegMagnetarCannon@450; //take a wild guess at what this is
-				Thagomizer@750; //Now, this end is called the thagomizer... after the late Thag Simmons
-				Thagomizer_Flipped@750; // Giant MRM
-				Thagomizer_Angled@750; // Supersized for your pleasure
-				Thagomizer_Angled_Flipped@750; // Limited guidance Unmilited Joy
-				K_HS_9x9_K3_King@900; //the 9x9 turrets, Hadean Plasma Blastgun
-				K_HS_9x9_HSRB_Dreadnight@900; // Vindicator Kinetic Battery
+				K_HS_Damnation@200; 
+				KreegMagnetarCannon@450; 
+				Thagomizer@750; 
+				Thagomizer_Flipped@750; 
+				Thagomizer_Angled@750; 
+				Thagomizer_Angled_Flipped@750; 
+				K_HS_9x9_K3_King@900; 
+				K_HS_9x9_HSRB_Dreadnight@900;
             "));
         }
     }
