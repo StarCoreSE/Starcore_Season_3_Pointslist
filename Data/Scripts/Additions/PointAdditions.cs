@@ -447,11 +447,11 @@ namespace ShipPoints
 				Torp_Block@725; 
 				Heavy_Repeater@85; 
 				PriestReskin_Block@85; 
-				Fixed_Rockets@180; 
+				Fixed_Rockets@225; 
 				Type18_Artillery@200;
 				Type21_Artillery@400;
 				Assault_Coil_Turret@160; 
-				Light_Coil_Turret@105; 
+				Light_Coil_Turret@115; 
 				RailgunTurret_Block@450; 
                 Null_Point_Jump_Disruptor_Large@99999;
 				LargeGatlingTurret_SC@175;
@@ -497,7 +497,7 @@ namespace ShipPoints
 				Thagomizer_Angled@750; 
 				Thagomizer_Angled_Flipped@750; 
 				K_HS_9x9_K3_King@900; 
-				K_HS_9x9_HSRB_Dreadnight@900;
+				K_HS_9x9_HSRB_Dreadnight@750;
             "));
         }
     }
