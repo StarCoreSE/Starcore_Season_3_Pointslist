@@ -345,7 +345,7 @@ namespace ShipPoints
 				Starcore_AMS_I_Block@175;
 				Odin_Torpedo@220;
 				Odin_Missile_Battery@200;
-				K_SA_Launcher_VIV@400;
+				K_SA_Launcher_VIV@350;
 				K_SA_Launcher_VI@350;
 				Starcore_SSRM_Block@250;
 				ModularSRM8@250;
